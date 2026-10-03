@@ -1,0 +1,15 @@
+# Local tool state
+.freebuff/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS cruft
+*.log
+npm-debug.log*
